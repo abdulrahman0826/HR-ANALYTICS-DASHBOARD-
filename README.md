@@ -9,3 +9,6 @@ The project focuses on Workforce Attrition to help HR and management understand 
 **Role & Department:** Column charts to pinpoint high-risk areas.
 **Attrition by Key Factors:** Charts exploring the relationship between attrition and factors like Job Satisfaction, Marital Status, and Business Travel.
 **Workforce Demographics:** Pie charts and bar charts detailing employee distribution by Age Group and Gender.
+
+**_OUTPUT_**
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dcc33c15-af73-4637-91c0-b40f29acd0a5" />
